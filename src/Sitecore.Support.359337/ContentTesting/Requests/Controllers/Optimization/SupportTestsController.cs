@@ -45,7 +45,7 @@ namespace Sitecore.Support.ContentTesting.Requests.Controllers.Optimization
             {
                 Language.TryParse(language, out language2);
             }
-            if ((result != (ID) null) || !string.IsNullOrEmpty(language))
+            if ((result != (ID) null) && !string.IsNullOrEmpty(language))
             {
                 hostItemDataUri = new DataUri(result, language2);
             }

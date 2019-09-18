@@ -77,7 +77,6 @@
     <Compile Include="ContentTesting\Requests\Controllers\Optimization\SupportTestsController.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\zzz\Sitecore.Support.359337.config" />
     <Content Include="sitecore\shell\client\Applications\ContentTesting\Components\DataSource\TestsDataSource\TestsDataSource.js" />
   </ItemGroup>
   <ItemGroup>
