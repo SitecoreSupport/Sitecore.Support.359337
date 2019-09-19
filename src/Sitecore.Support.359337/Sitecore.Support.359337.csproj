@@ -80,6 +80,7 @@
     <Content Include="sitecore\shell\client\Applications\ContentTesting\Components\DataSource\TestsDataSource\TestsDataSource.js" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Config\Include\zzz\Sitecore.Support.359337.config" />
     <None Include="packages.config" />
     <None Include="web.config" />
   </ItemGroup>
